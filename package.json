@@ -1,0 +1,28 @@
+{
+  "name": "techtroopautocompletetrie",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000e\u0000c\u0000h\u0000t\u0000o\u0000o\u0000p\u0000-\u0000a\u0000u\u0000t\u0000o\u0000c\u0000o\u0000m\u0000p\u0000l\u0000e\u0000t\u0000e\u0000-\u0000t\u0000r\u0000i\u0000e\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofekcofman98/techtoop-autocomplete-trie-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ofekcofman98/techtoop-autocomplete-trie-project/issues"
+  },
+  "homepage": "https://github.com/ofekcofman98/techtoop-autocomplete-trie-project#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
