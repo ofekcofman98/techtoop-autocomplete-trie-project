@@ -76,4 +76,4 @@ class AutoCompleteTrie {
   }
 }
 
-module.exports = AutoCompleteTrie;
+export default AutoCompleteTrie;
